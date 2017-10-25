@@ -1,0 +1,3 @@
+[submodule "ip_repo/mpwm"]
+	path = ip_repo/mpwm
+	url = https://github.com/bfarago/fpga_ip_mpwm
