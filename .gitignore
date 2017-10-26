@@ -53,3 +53,5 @@ dkms.conf
 
 #fpga related
 *.log
+*.wdf
+soc_cmoda7/soc_cmoda7.cache/

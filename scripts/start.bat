@@ -1,0 +1,1 @@
+subst x: c:\Users\Barna\src\gitrepo\fpga_s_CmodA7
